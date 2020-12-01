@@ -1,0 +1,51 @@
+h1 {
+font-family:'Times New Roman', Times, serif;
+font-weight: normal;
+font-size: 170px;
+text-align: center;
+color: currentColor;
+
+}
+
+body {
+background-color:goldenrod;
+color:blanchedalmond;
+}
+
+h3 {
+font-family:'Times New Roman', Times, serif;   
+text-decoration: underline;
+text-align: center;
+font-size: 70px;
+font-weight: normal;
+}
+
+
+
+h2 {
+font-size: 30px;
+font-weight: bolder;
+font-family: 'Times New Roman', Times, serif;
+color: currentColor;
+}
+
+div1 {
+ font-family: Georgia, 'Times New Roman', Times, serif;   
+ font-size:30px;
+font-weight: bolder;
+text-align: center;
+color: currentColor;
+}
+
+h4 {
+font-family: Georgia, 'Times New Roman', Times, serif;   
+font-size: 40px;
+}
+
+
+
+h5 {
+text-align:center;
+font-size: 5px;
+
+}
