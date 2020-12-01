@@ -1,0 +1,49 @@
+
+    .topnav {
+        background-color: rgb(26, 26, 29);
+        overflow: hidden;
+        position: right;
+        text-align: right;
+      }
+      
+      
+      .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+    
+      .topnav a:hover {
+        background-color: rgb(170, 32, 32);
+        color: rgb(15, 2, 2);
+      }
+      
+      
+      .topnav a.active {
+        background-color: #b4b4b4;
+        color: white;
+      }
+    
+
+
+h2,h3,h4,h5 {
+    font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
+    text-align:center;
+
+}
+
+body {
+    font-size:13px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.para1 {
+  text-align:right;
+  font-size:14px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
